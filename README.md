@@ -3,7 +3,7 @@ A naive implementation of the [rule 110](https://en.wikipedia.org/wiki/Rule_110)
 
 ## compilation
 
-you may need to change your target device in CMakeList.txt, see [this](https://en.wikipedia.org/wiki/CUDA#Supported_GPUs) page a change the number in arch and code corresponding to your device
+you may need to change your target device in CMakeList.txt, see [this](https://en.wikipedia.org/wiki/CUDA#Supported_GPUs) page and change the number in arch and code (line 11) corresponding to your device
 
 compiling is as simple as :
 ```bash
